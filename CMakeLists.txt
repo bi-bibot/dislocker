@@ -17,7 +17,7 @@
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301,
 # USA.
 
-cmake_minimum_required (VERSION 3.5)
+cmake_minimum_required (VERSION 3.8)
 project (dislocker C)
 
 set (AUTHOR "Romain Coltel")
